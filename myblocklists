@@ -1,0 +1,33 @@
+
+# block self installing apps
+(\.|^)apps\.apple\.com$
+#
+# block minecraft
+(\.|^)minecraft\.net$
+^.*minecraft\..*$
+# google video
+(\.|^)googlevideo\.com$
+(\.|^)www\.youtube-nocookie\.com$
+(\.|^)youtube\.com$
+(\.|^)ytimg\.com$
+# games
+([a-z0-9]|\.|^)games\.(net|com|space)
+(\.|\w|^)games?\.com$
+(\.|^)arkadium\.com$
+(\.|^)bloxd\.io$
+(\.|^)crazygames\.com$
+(\.|^)gamaverse\.com$
+(\.|^)gameflare\.com$
+(\.|^)gameforge\.com$
+(\.|^)gameis\.net$
+(\.|^)gethappydog\.com$
+(\.|^)gogy\.com$
+(\.|^)happyclicks\.net$
+(\.|^)hole-io\.com$
+(\.|^)kids\.scholastic\.com$
+(\.|^)minecraft-services\.net$
+(\.|^)now\.gg$
+(\.|^)playhop\.com$
+(\.|^)poki\.com$
+(\.|^)roblox-api\.arkoselabs\.com$
+(\.|^)roblox\.com$
